@@ -1,0 +1,1 @@
+This repository contains all the files that were involved with the Applied Data Science course.
